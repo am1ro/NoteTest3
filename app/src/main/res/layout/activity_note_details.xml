@@ -5,5 +5,6 @@
         android:id="@+id/container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.example.notetest3.ui.list.NotesListFragment"
-        tools:context=".ui.MainActivity"/>
+        tools:context=".ui.details.NoteDetailsActivity">
+
+</androidx.fragment.app.FragmentContainerView>

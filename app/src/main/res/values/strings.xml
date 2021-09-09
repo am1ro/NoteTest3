@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">NoteTest3</string>
+    <string name="app_name">NoteTest2</string>
+    <string name="note_1">Note 1</string>
+    <string name="note_1_dsc">Description Note 1</string>
+    <string name="note_1_date">date1</string>
+    <string name="note_2">Note 2</string>
+    <string name="note_3">Note 3</string>
+    <string name="note_2_dsc">Description Note 2</string>
+    <string name="note_2_date">date2</string>
+    <string name="note_3_dsc">Description Note 3</string>
+    <string name="note_3_date">date3</string>
 </resources>
